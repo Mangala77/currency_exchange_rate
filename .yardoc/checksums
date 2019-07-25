@@ -1,0 +1,3 @@
+lib/currency_exchange.rb 0ed3febdb8840f7b7b3214c280f755ace5c54245
+lib/exchange_rate/currency.rb 95c78b3cccf1831230bd5dc390309a0bcb0fbdb8
+lib/exchange_rate/file_reader.rb 7365a763fb9c77995959b16da7617e16ccbf0ec2
